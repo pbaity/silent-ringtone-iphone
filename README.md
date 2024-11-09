@@ -16,7 +16,7 @@ Steps:
 
 2. Open Finder and select your device in the left hand bar.
 
-3. Click "Manage Storage..." and select "Tones" section.
+3. Click "Manage Storage..." and open "Tones" section.
 
 4. Then drag the downloaded [Silence.m4r](https://github.com/pbaity/silent-ringtone-iphone/raw/master/Silence.m4r) here.
 
